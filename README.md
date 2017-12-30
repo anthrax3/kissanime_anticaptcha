@@ -1,5 +1,6 @@
 # kissanime_anticaptcha
-Learns and solves captchas on kissanime.ru
+Learns and solves captchas on kissanime.ru  
+Download at https://greasyfork.org/en/scripts/36720-kissanime-anti-captcha
 
 kissanime captcha passer.js is a tampermonkey script that memorizes all the captchas you solve on kissanime.ru. As you solve captchas it should slowly learn almost every captcha the site has to offer (there are only about 150 unique captcha images, each of which have an average of 3 words associated with them).
 
